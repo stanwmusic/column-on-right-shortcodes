@@ -12,7 +12,7 @@
 .four_fifth,
 .one_sixth,
 .five_sixth {
-	float: left;
+	float: right;
 }
 .clear_column {
 	clear:both;
