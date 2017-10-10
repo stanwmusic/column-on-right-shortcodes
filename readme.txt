@@ -1,4 +1,5 @@
-=== Column Shortcodes ===
+=== Column-on-right-shortcodes ===
+
 Contributors: codepress, tschutter, davidmosterd, dungengronovius
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZDZRSYLQ4Z76J
 Tags: columns, column, shortcodes, shortcode, divider, layout, posts, editor, wp-admin, admin, codepress, wordpress
@@ -8,10 +9,10 @@ Stable tag: 1.0
 
 Adds shortcodes to easily create columns in your posts or pages.
 
-== Description ==
+== Description == 
 
-Adds shortcodes to easily create columns in your posts or pages.
-
+Adds shortcodes to easily create columns in your posts or pages on the right side of the page.
+/* I changed the shortcode.css to make the column  be positioned on the right d=side of the page  rather than the left and I had a request from a client for  an Odd layout  October 10th 2017  Stanwmusic */
 Sometimes you just need to divide your page into different columns. With this plugin you just select a column shortcode and it will add the column to the page. You can also change the padding of each individual column from the UI.
 
 There are 10 different column widths available from which you can make all combinations:
